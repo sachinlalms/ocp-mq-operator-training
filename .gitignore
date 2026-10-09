@@ -1,0 +1,5 @@
+  *.key
+  *.pem
+  *secret*.yaml
+  .env
+  kubeconfig

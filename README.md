@@ -51,4 +51,8 @@ Each day folder has: README (theory), labs/, yaml/, troubleshooting.md, quiz.md.
 See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## License
+<<<<<<< HEAD
 Content: CC BY 4.0. Code and YAML samples: MIT.
+=======
+Content: CC BY 4.0. Code and YAML samples: MIT.
+>>>>>>> d57df99 (Initial structure: 21-day curriculum scaffold)

@@ -1,4 +1,4 @@
-# MQ on OpenShift Academy
+# MQ on OpenShift 
 
 A hands-on, day-by-day training series covering cloud basics, Kubernetes,
 OpenShift (OCP), Operators, and deploying and troubleshooting IBM MQ with the MQ Operator.
